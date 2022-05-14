@@ -10,7 +10,7 @@ M.options = {
 
    nvChad = {
       -- updater
-      update_url = "https://github.com/NvChad/NvChad",
+      update_url = "https://github.com/Adrplayer/NvChad",
       update_branch = "main",
    },
 }
